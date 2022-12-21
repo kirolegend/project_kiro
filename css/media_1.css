@@ -421,6 +421,12 @@
   .container {
     padding: 25px 40px;
   }
+  .container_2 {
+    padding: 30px 30px !important;
+  }
+  .rg_container {
+    padding: 0 !important;
+  }
 }
 
 /*# sourceMappingURL=media_1.css.map */
