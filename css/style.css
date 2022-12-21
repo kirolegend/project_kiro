@@ -13,6 +13,10 @@
   src: url("fonts/montserrat-bold.ttf");
   font-weight: 400;
 }
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: montserrat;
   color: #fff;
